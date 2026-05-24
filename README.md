@@ -57,6 +57,28 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+## 📚 Libraries & Frameworks
+
+### Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Flask
+- TensorFlow
+- OpenCV
+
+### JavaScript Libraries
+- React.js
+- Express.js
+- Node.js
+
+### APIs & Cloud
+- REST APIs
+- Firebase
+- Google Maps API
+
+---
 
 ## 💼 Experience
 
